@@ -8,6 +8,7 @@
  - converting separator separated list of values into temporary table and returning result as a select query,
  - creating class property in the form of PascalCase or CamelCase,
  - retrieving full table column data type based on simple name like varchar, decimal, etc.
+ - converting JSON data to table object in the coming days...
 
 # Details are inside of this solution.
 
