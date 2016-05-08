@@ -2,7 +2,7 @@
 # SoftwareDevelopment-T-SQL
 
 # These are free T-SQL functions && procedures for operations like:
- - sending formmatted email stright from database,
+ - sending formmatted email with applied CSS2/3 rules stright from database,
  - converting query result to JSON format,
  - creating C# class based on table,
  - converting separator separated list of values into temp table,
