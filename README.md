@@ -4,9 +4,9 @@
 # These are free T-SQL functions && procedures for operations like:
  - sending formmatted email with applied CSS2/3 rules stright from database,
  - converting query result to JSON format,
- - creating C# class based on table,
- - converting separator separated list of values into temp table,
- - creating class property in the form of PascalCase or CamelCase
+ - creating C# class based on a table,
+ - converting separator separated list of values into temporary table and returning result as a select query,
+ - creating class property in the form of PascalCase or CamelCase,
  - retrieving full table column data type based on simple name like varchar, decimal, etc.
 # Details are inside of this solution.
 
