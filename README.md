@@ -8,6 +8,7 @@
  - converting separator separated list of values into temporary table and returning result as a select query,
  - creating class property in the form of PascalCase or CamelCase,
  - retrieving full table column data type based on simple name like varchar, decimal, etc.
+
 # Details are inside of this solution.
 
 # Converting query result to JSON format [available from SQL SERVER 2008]. Microsoft will release this feature natively in the latest SQL SERVER 2016 release.
