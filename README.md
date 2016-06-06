@@ -9,6 +9,30 @@
  - creating class property in the form of PascalCase or CamelCase,
  - retrieving full table column data type based on simple name like varchar, decimal, etc.
  - converting JSON data to table object <strong>[UPLOADED]</strong>
+ - converting JSON data to table object <strong>SUPPORT FOR USER CUSTOM TYPE [UPLOADED]</strong>
+
+example usage:
+
+DECLARE @JSON AS dbo.JSON
+INSERT @JSON
+EXEC CONVERT_JSON_OBJECT_TO_SQL_TABLE 
+										'',
+										'[
+										 {
+											"property1": "1",
+											"property2": "223343434"
+										 },
+										 {
+											"property1": "22",
+											"property2": "11111111"
+										 }
+									   ]',
+									   1,
+									   'dbo.JSON'
+
+
+SELECT * FROM @JSON
+
 
 # Details are inside of this solution.
 
