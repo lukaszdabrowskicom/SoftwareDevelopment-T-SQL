@@ -30,7 +30,6 @@ EXEC CONVERT_JSON_OBJECT_TO_SQL_TABLE
 									   1,
 									   'dbo.JSON'
 
-
 SELECT * FROM @JSON
 
 
