@@ -1,5 +1,12 @@
-# Dabrowski Software Development
-# SoftwareDevelopment-T-SQL
+# Dabrowski Software Development [ T-SQL ]
+
+modifications:
+- NEW:
+ 
+- OLD:
+- [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE] [bug fix]:
+   - @P_TEMP_TABLE_TO_STORE_JSON_OBJECT AS TINYINT -> @P_TEMP_TABLE_TO_STORE_JSON_OBJECT AS SYSNAME,
+   - <strong>UPLOADED 2016-06-24 17:50:00 GMT +01:00</strong>
 
 # These are free T-SQL functions && procedures for operations like:
  - sending formmatted email with applied CSS2/3 rules stright from database,
