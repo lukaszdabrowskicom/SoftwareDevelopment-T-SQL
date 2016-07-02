@@ -20,8 +20,8 @@ modifications:
  - creating class property in the form of PascalCase or CamelCase,
  - retrieving full table column data type based on simple name like varchar, decimal, etc.
  - converting JSON data to table object <strong>[UPLOADED]</strong>
- - util string functions <strong> [UPLOADED] [NEW]</strong> 
- - converting JSON data to table object <strong> [SUPPORT FOR USER CUSTOM TYPE] [UPLOADED] [NEW]</strong>
+ - util string functions <strong> [UPLOADED]</strong> 
+ - converting JSON data to table object <strong> [SUPPORT FOR USER CUSTOM TYPE] [UPLOADED]</strong>
 
 example usage:
 
