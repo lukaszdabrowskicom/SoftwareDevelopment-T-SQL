@@ -4,7 +4,7 @@ modifications:
 - NEW:
  - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_2] <strong>UPLOADED 2016-07-14 21:13:00 GMT +01:00 [NEW]</strong>:
   #*full details inside procedure*
-
+ -
   #*complex JSON object invocation example inside CONVERT_JSON_OBJECT_TO_SQL_TABLE_2_complex_example.sql file in the repository root directory*
  
 - OLD:
