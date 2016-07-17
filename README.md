@@ -1,7 +1,7 @@
 # Dabrowski Software Development [ T-SQL ]
 
 - NEW:
- - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_2] [bug fix]:
+ - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_2]:
  - *#JSON properties to table columns mapping, full details in the header of the procedure.*
  - <strong>UPLOADED 2016-07-17 15:30:00 GMT +01:00 [BUG FIX]</strong>
  - 
@@ -12,11 +12,11 @@
   - 
 
 - OLD:
- - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE] [bug fix]:
+ - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE]:
  - *#@P_TEMP_TABLE_TO_STORE_JSON_OBJECT AS TINYINT -> @P_TEMP_TABLE_TO_STORE_JSON_OBJECT AS SYSNAME*
  - <strong>UPLOADED 2016-06-24 17:50:00 GMT +01:00 [BUG FIX]</strong>
  -
- - [FUNCTION]	[NORMALIZE_NAME] [bug fix]:
+ - [FUNCTION]	[NORMALIZE_NAME]:
  - *#inside function body replacement of '\t' -> CHAR(9)*
  - <strong>UPLOADED 2016-06-24 20:48:00 GMT +01:00 [BUG FIX]</strong>
  - 
