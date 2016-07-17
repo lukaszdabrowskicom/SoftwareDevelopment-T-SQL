@@ -22,7 +22,7 @@
  -
  -
 
-# These are free T-SQL functions && procedures for operations like:
+# These are free T-SQL functions && procedures for day-to-day operations:
  - sending formmatted email with applied CSS2/3 rules stright from database,
  - converting query result to JSON format,
  - creating C# class based on a table,
