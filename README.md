@@ -8,7 +8,8 @@ modifications:
  -
  - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_2] <strong>UPLOADED 2016-07-14 21:13:00 GMT +01:00 [NEW]</strong>:
   #*full details inside procedure*, and complex JSON object invocation example inside *<strong>CONVERT_JSON_OBJECT_TO_SQL_TABLE_2_complex_example.sql</strong>* file in the repository's root directory.
--
+
+
 - OLD:
 - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE] [bug fix]:
    - @P_TEMP_TABLE_TO_STORE_JSON_OBJECT AS TINYINT -> @P_TEMP_TABLE_TO_STORE_JSON_OBJECT AS SYSNAME,
