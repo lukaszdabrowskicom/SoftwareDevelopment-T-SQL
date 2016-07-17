@@ -21,8 +21,7 @@
  - <strong>UPLOADED 2016-06-24 20:48:00 GMT +01:00 [BUG FIX]</strong>
  -
 -
-#License
- -[MIT licence]
+#License: [MIT licence]
  -
 
 #[Description] functions && procedures for day-to-day tasks:
