@@ -54,8 +54,7 @@ EXEC CONVERT_JSON_OBJECT_TO_SQL_TABLE
 
 SELECT * FROM @JSON
 
-
-# Details are inside of this solution.
+*Details are inside of this solution.*
 
 # Converting query result to JSON format [available from SQL SERVER 2008]. Microsoft will release this feature natively in the latest SQL SERVER 2016 release.
 
