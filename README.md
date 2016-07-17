@@ -7,9 +7,9 @@
  - 
  - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE_2]:
   - *#full details inside procedure, and complex JSON object invocation example inside*
-  - <strong>CONVERT_JSON_OBJECT_TO_SQL_TABLE_2_complex_example.sql</strong>* file in the repository's root directory.
+  - <strong>CONVERT_JSON_OBJECT_TO_SQL_TABLE_2_complex_example.sql</strong> file in the repository's root directory.
   - <strong>UPLOADED 2016-07-14 21:13:00 GMT +01:00 [NEW]</strong>
-
+  - 
 
 - OLD:
 - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE] [bug fix]:
