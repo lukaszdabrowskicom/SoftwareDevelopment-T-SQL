@@ -20,9 +20,9 @@
  - *#inside function body replacement of '\t' -> CHAR(9)*
  - <strong>UPLOADED 2016-06-24 20:48:00 GMT +01:00 [BUG FIX]</strong>
  -
-
+-
 #License: [MIT licence]
-
+-
 #[Description] functions && procedures for day-to-day tasks:
  - sending formmatted email with applied CSS2/3 rules stright from database,
  - converting query result to JSON format,
@@ -33,9 +33,8 @@
  - converting JSON data to table object <strong>[UPLOADED]</strong>
  - util string functions <strong> [UPLOADED]</strong> 
  - converting JSON data to table object <strong> [SUPPORT FOR USER CUSTOM TYPE] [UPLOADED]</strong>
-
-example usage:
-
+-
+#example usage:
 DECLARE @JSON AS dbo.JSON
 INSERT @JSON
 EXEC CONVERT_JSON_OBJECT_TO_SQL_TABLE 
