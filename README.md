@@ -23,7 +23,7 @@
 -
 #License: [MIT licence]
 -
-#[Description] functions && procedures for day-to-day tasks:
+#Description: [functions && procedures for day-to-day tasks]:
  - sending formmatted email with applied CSS2/3 rules stright from database,
  - converting query result to JSON format,
  - creating C# class based on a table,
