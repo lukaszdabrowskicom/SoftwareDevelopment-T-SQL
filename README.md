@@ -13,6 +13,7 @@ modifications:
 - [PROCEDURE]	[CONVERT_JSON_OBJECT_TO_SQL_TABLE] [bug fix]:
    - @P_TEMP_TABLE_TO_STORE_JSON_OBJECT AS TINYINT -> @P_TEMP_TABLE_TO_STORE_JSON_OBJECT AS SYSNAME,
    - <strong>UPLOADED 2016-06-24 17:50:00 GMT +01:00</strong>
+   - 
 - [FUNCTION]	[NORMALIZE_NAME] [bug fix]:
    - inside function body replacement of '\t' -> CHAR(9),
    - <strong>UPLOADED 2016-06-24 20:48:00 GMT +01:00</strong>
