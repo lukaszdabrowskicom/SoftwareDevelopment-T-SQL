@@ -33,8 +33,8 @@
  - converting JSON data to table object <strong>[UPLOADED]</strong>
  - util string functions <strong> [UPLOADED]</strong> 
  - converting JSON data to table object <strong> [SUPPORT FOR USER CUSTOM TYPE] [UPLOADED]</strong>
--
-#example usage:
+
+#Example usage:
 DECLARE @JSON AS dbo.JSON
 INSERT @JSON
 EXEC CONVERT_JSON_OBJECT_TO_SQL_TABLE 
