@@ -16,7 +16,7 @@
    - 
 - [FUNCTION]	[NORMALIZE_NAME] [bug fix]:
    - inside function body replacement of '\t' -> CHAR(9),
-   - <strong>UPLOADED 2016-06-24 20:48:00 GMT +01:00</strong>
+   - <strong>UPLOADED 2016-06-24 20:48:00 GMT +01:00 [BUG FIX]</strong>
    
 
 # These are free T-SQL functions && procedures for operations like:
